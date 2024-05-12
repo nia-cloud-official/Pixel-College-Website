@@ -1,5 +1,3 @@
-Here's a README.md for your Pixel College website project:
-
 # Pixel College Website
 
 This is the repository for the Pixel College website, a dynamic and responsive web application designed to provide a comprehensive educational experience for students in the field of computer science and information technology.
