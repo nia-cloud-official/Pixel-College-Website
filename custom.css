@@ -1,0 +1,19 @@
+.iconcourse {
+    height: 30px;
+}
+
+.button {
+    padding: 10px;
+    background-color: transparent;
+    border: rgb(143, 143, 240) 0.1px solid;
+    width: 100%;
+    border-radius: 100px;
+}
+
+.button:hover {
+    padding: 10px;
+    background-color: rgb(70, 160, 141);
+    border: rgb(143, 143, 240) 0.1px solid;
+    width: 100%;
+    border-radius: 100px;
+}
